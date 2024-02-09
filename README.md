@@ -5,10 +5,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=ROBOT&color=%236FDA44&size=25&center=true&vCenter=true&width=600&height=50&lines=%3E+Welcome%20to%20my%20GitHub%20profile...;%3E+Frontend+Developer;%3E+Competitive+Programmer;%3E+Problem+Solver" />  
 </div>
 
-<div align="center">
-    <img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
-</div>
-
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
 <!-- - 🔭 I’m currently working on something cool. -->
