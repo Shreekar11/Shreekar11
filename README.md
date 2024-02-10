@@ -25,13 +25,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,jsy,tsy" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,ts" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,figma" />
   </a>
 </p>
 
