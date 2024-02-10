@@ -21,20 +21,33 @@
 
 - 😄 Pronouns: He/Him
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## 💼 Technical Skills
 
-```json
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,jsy,tsy" />
+  </a>
+</p>
 
-{
-    "Web Development" : {
-        "Languages" : [ "HTML", "CSS", "Javascript", "TypeScript" , "CPP"]
-        "Frontend Frameworks" : [ "Tailwind CSS", "React.js", "Next.js"] ,
-        "Backend Frameworks" : [ "Firebase" ] ,
-        "Tools" : [ "Git", "GitHub", "Vite" ]
-        "IDE" : [ "Visual Studio Code" ]
-    } ,
-}
-```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,jquery,firebase,graphql" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,visualstudio" />
+  </a>
+</p>
+
+<br>
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
 <p>
