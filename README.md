@@ -31,19 +31,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,jquery,firebase,graphql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,jquery,firebase,graphql" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,figma" />
   </a>
 </p>
 
