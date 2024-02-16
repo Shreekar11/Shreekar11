@@ -21,6 +21,11 @@
 
 - 😄 Pronouns: He/Him
 
+- <p align="center">
+  <a href="https://www.linkedin.com/in/shreekar-gade-2a9937257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shreekar Gade | LinkedIn"/></a>
+  <a href="https://twitter.com/Shreekar_11/"><img src="https://img.shields.io/badge/twitter-1de9b6?style=for-the-badge&logo=twitter&logoColor=white" alt="Shreekar | Twitter"/></a>
+</p>
+
 ## 💼 Technical Skills
 
 <p align="center">
