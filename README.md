@@ -47,6 +47,11 @@
   </a>
 </p>
 
+## 📈 GitHub Stats 
+[![Shreekar’s github stats](https://github-readme-stats.vercel.app/api?username=Shreekar11&show_icons=true&theme=dark&count_private=true)](https://github.com/Shreekar11)
+
+<br>
+
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
