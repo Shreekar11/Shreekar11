@@ -21,11 +21,6 @@
 
 - 😄 Pronouns: He/Him
 
-- <p align="center">
-  <a href="https://www.linkedin.com/in/shreekar-gade-2a9937257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shreekar Gade | LinkedIn"/></a>
-  <a href="https://twitter.com/Shreekar_11/"><img src="https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Shreekar | Twitter"/></a>
-</p>
-
 ## 💼 Technical Skills
 
 <p align="center">
@@ -59,17 +54,16 @@
 
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
+- 📧 Email: shreekargade2004@gmail.com
 
-<p>
-    <a href="https://www.linkedin.com/in/shreekar-gade-2a9937257/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
-            width="40" /></a>
-    <a href="https://codeforces.com/profile/Shreekar11" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3629285-3031869.png?f=webp&w=256" alt="Codeforces" height="40"
-            width="40" /></a>
-    <a href="https://twitter.com/Shreekar_11" target="blank"><img align="center"
-            src="https://static.toiimg.com/thumb/msid-102075304,imgsize-5578,width-400,resizemode-4/102075304.jpg" alt="X" height="40"
-            width="40" /></a>
-</p>
+### My Social Media Handles
+<a href="https://www.linkedin.com/in/shreekar-gade-2a9937257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shreekar Gade | LinkedIn"/></a>
+<a href="https://twitter.com/Shreekar_11/"><img src="https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Shreekar | Twitter"/></a>
+
+  
+### My Coding Profiles
+[<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/Shreekar11/)
+[<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />](https://www.codechef.com/users/shreekar_11)
+[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/Shreekar_11/)
 
 ##
