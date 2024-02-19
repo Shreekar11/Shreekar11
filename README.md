@@ -19,7 +19,10 @@
 
 - 👨‍💻 You can access all of my projects here on **[GitHub](https://github.com/Shreekar11?tab=repositories)**
 
+- 📫 You can contact me through email - shreekargade2004@gmail.com
+
 - 😄 Pronouns: He/Him
+
 
 ## 💼 Technical Skills
 
@@ -53,9 +56,6 @@
 <br>
 
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
-- 📧 Email: shreekargade2004@gmail.com
-
 ### My Social Media Handles
 <a href="https://www.linkedin.com/in/shreekar-gade-2a9937257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shreekar Gade | LinkedIn"/></a>
 <a href="https://twitter.com/Shreekar_11/"><img src="https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Shreekar | Twitter"/></a>
