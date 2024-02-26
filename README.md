@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on something cool. -->
 
-- 🌱 I’m currently learning Next.js.
+- 🌱 I’m currently learning Backend Technologies.
 
 - 👯 I’m looking forward to collaborate on Web projects.
 
