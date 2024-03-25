@@ -54,6 +54,11 @@
 [![Shreekar’s github stats](https://github-readme-stats.vercel.app/api?username=Shreekar11&show_icons=true&theme=dark&count_private=true)](https://github.com/Shreekar11)
 
 <br>
+# Profile Visitors
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/omkargade04/count.svg?"  />
+</div>
 
 <br>
 
