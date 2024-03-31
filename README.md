@@ -51,9 +51,9 @@
 </p>
 
 ## 📈 GitHub Stats 
-[![Shreekar’s github stats](https://github-readme-stats.vercel.app/api?username=Shreekar11&show_icons=true&theme=dark&count_private=true)](https://github.com/Shreekar11)
+[![Shreekar’s github stats](https://github-readme-stats.vercel.app/api?username=Shreekar11&show_icons=true&theme=dracula&count_private=true)](https://github.com/Shreekar11)
 
-<div align="center">
+<div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreekar11&theme=dracula" />
 </div>
 
