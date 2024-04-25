@@ -34,13 +34,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,jquery" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,jquery,firebase,graphql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,firebase,graphql" />
   </a>
 </p>
 
