@@ -2,8 +2,9 @@
 <h3 align="center">A Full Stack Development Enthusiast from Pune Institute of Computer Technology</h3>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=ROBOT&color=%236FDA44&size=25&center=true&vCenter=true&width=600&height=50&lines=%3E+Welcome%20to%20my%20GitHub%20profile...;%3E+Full+Stack+Developer;%3E+Competitive+Programmer;%3E+Problem+Solver" />  
+  <image alt="Coding" width="771" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
+</br>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
