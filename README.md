@@ -53,10 +53,12 @@
 
 ## 📈 GitHub Stats 
 
-[![Shreekar’s github stats](https://github-readme-stats.vercel.app/api?username=Shreekar11&show_icons=true&theme=dracula&count_private=true)](https://github.com/Shreekar11)
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Shreekar11&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+ </a>
 
 <div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreekar11&theme=dracula" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreekar11&theme=react&border_color=61dafb&include_all_commits=true" />
 </div>
 
 </br>
