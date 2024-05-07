@@ -53,10 +53,12 @@
 
 ## 📈 GitHub Stats 
 
-<p align="center">
-	<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreekar11&show_icons=true&locale=en" alt="Shreekar11" />
-	<img align="right" src="https://komarev.com/ghpvc/?username=Shreekar11&label=Profile%20views&color=0e75b6&style=flat" alt="Shreekar11" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Shreekar11&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
+ </a>
+  <a href="https://git.io/streak-stats" title="Go to Source">
+      <img align="right" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=Shreekar11&theme=react&border=61DAFB&fire=DDB80F"/>
+ </a>
 
 <br>
 
