@@ -53,13 +53,31 @@
 
 ## 📈 GitHub Stats 
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Shreekar11&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
- </a>
+<div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+        <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=kishanlalchoudhary&theme=onedark&column=8" alt="kishanlalchoudhary" />
+    </a>
+</div>
 
-<a href="https://git.io/streak-stats" title="Go to Source">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreekar11&theme=react" />
-</a>
+<br>
+
+<p align=center>
+    <div align="center">
+        <a>
+            <img width=396 src="https://github-readme-stats.vercel.app/api?username=Shreekar11&show_icons=true&theme=vue-dark&border_color=61dafb" alt="Shreekar11" /> 
+        </a>
+    &nbsp; &nbsp; &nbsp;
+        <a>
+            <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=Shreekar11&&theme=vue-dark&border=61dafb" alt="Shreekar11" />
+        </a>
+    </div> 
+    &nbsp; &nbsp;
+    <div align="center" >
+        <a>
+            <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreekar11&show_icons=true&locale=en&layout=compact&theme=vue-dark&column=8&border_color=61dafb" alt="Shreekar11" />
+        </a>
+    </div>
+</p>
 
 </br>
 
