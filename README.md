@@ -53,11 +53,10 @@
 
 ## 📈 GitHub Stats 
 
-[![Shreekar’s github stats](https://github-readme-stats.vercel.app/api?username=Shreekar11&show_icons=true&theme=dracula&count_private=true)](https://github.com/Shreekar11)
-
-<div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreekar11&theme=dracula" />
-</div>
+<p align="center">
+	<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreekar11&show_icons=true&locale=en" alt="Shreekar11" />
+	<img align="right" src="https://komarev.com/ghpvc/?username=Shreekar11&label=Profile%20views&color=0e75b6&style=flat" alt="Shreekar11" />
+</p>
 
 <br>
 
