@@ -53,14 +53,13 @@
 
 ## 📈 GitHub Stats 
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=Shreekar11&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true"/>
- </a>
-  <a href="https://git.io/streak-stats" title="Go to Source">
-      <img align="right" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=Shreekar11&theme=react&border=61DAFB&fire=DDB80F"/>
- </a>
+[![Shreekar’s github stats](https://github-readme-stats.vercel.app/api?username=Shreekar11&show_icons=true&theme=dracula&count_private=true)](https://github.com/Shreekar11)
 
-</br></br>
+<div align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreekar11&theme=dracula" />
+</div>
+
+</br>
 
 ### My Social Media Handles
 <a href="https://www.linkedin.com/in/shreekar-gade-2a9937257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shreekar Gade | LinkedIn"/></a>
