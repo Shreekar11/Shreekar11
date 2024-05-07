@@ -72,11 +72,6 @@
         </a>
     </div> 
     &nbsp; &nbsp;
-    <div align="center" >
-        <a>
-            <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreekar11&show_icons=true&locale=en&layout=compact&theme=reactk&column=8&border_color=61dafb" alt="Shreekar11" />
-        </a>
-    </div>
 </p>
 
 </br>
