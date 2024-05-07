@@ -64,17 +64,17 @@
 <p align=center>
     <div align="center">
         <a>
-            <img width=396 src="https://github-readme-stats.vercel.app/api?username=Shreekar11&show_icons=true&theme=vue-dark&border_color=61dafb" alt="Shreekar11" /> 
+            <img width=396 src="https://github-readme-stats.vercel.app/api?username=Shreekar11&show_icons=true&theme=react&border_color=61dafb" alt="Shreekar11" /> 
         </a>
     &nbsp; &nbsp; &nbsp;
         <a>
-            <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=Shreekar11&&theme=vue-dark&border=61dafb" alt="Shreekar11" />
+            <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=Shreekar11&&theme=react&border=61dafb" alt="Shreekar11" />
         </a>
     </div> 
     &nbsp; &nbsp;
     <div align="center" >
         <a>
-            <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreekar11&show_icons=true&locale=en&layout=compact&theme=vue-dark&column=8&border_color=61dafb" alt="Shreekar11" />
+            <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreekar11&show_icons=true&locale=en&layout=compact&theme=reactk&column=8&border_color=61dafb" alt="Shreekar11" />
         </a>
     </div>
 </p>
