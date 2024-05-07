@@ -60,7 +60,7 @@
       <img align="right" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=Shreekar11&theme=react&border=61DAFB&fire=DDB80F"/>
  </a>
 
-<br>
+</br></br>
 
 ### My Social Media Handles
 <a href="https://www.linkedin.com/in/shreekar-gade-2a9937257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shreekar Gade | LinkedIn"/></a>
