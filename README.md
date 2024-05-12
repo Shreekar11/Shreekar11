@@ -86,17 +86,3 @@
 [<img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />](https://www.codechef.com/users/shreekar_11)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/Shreekar_11/)
 
-<div align="center">
- 
- ### Profile Visitors
- 
-</div>
-
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Shreekar11/count.svg?"  />
-</div>
-<p>&nbsp;</p>
-<div align="center">
- <img height="64" src="octocat.gif">
-</div>
