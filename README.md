@@ -41,13 +41,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,firebase,graphql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql,mongodb,redis,firebase,graphql" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,docker,gcp,aws,vscode,figma" />
   </a>
 </p>
 
