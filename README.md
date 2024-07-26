@@ -76,6 +76,14 @@
 
 </br>
 
+# Profile Visitors
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/omkargade04/count.svg?"  />
+</div>
+
+<br>
+
 ### My Social Media Handles
 <a href="https://www.linkedin.com/in/shreekar-gade-2a9937257/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shreekar Gade | LinkedIn"/></a>
 <a href="https://twitter.com/Shreekar_11/"><img src="https://img.shields.io/badge/twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Shreekar | Twitter"/></a>
