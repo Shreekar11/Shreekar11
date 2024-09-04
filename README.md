@@ -10,9 +10,9 @@
 
 <!-- - 🔭 I’m currently working on something cool. -->
 
-- 🌱 I’m currently learning Backend Technologies.
+- 🌱 I’m currently learning Backend and DevOps Technologies.
 
-- 👯 I’m looking forward to collaborate on Web projects.
+- 👯 I’m looking forward to collaborate on Full Stack projects.
 
 <!-- - 🤔 I’m looking for help with ... -->
 
