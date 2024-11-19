@@ -55,7 +55,7 @@
 
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-        <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=kishanlalchoudhary&theme=onedark&column=8" alt="kishanlalchoudhary" />
+        <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Shreekar11&theme=onedark&column=8" alt="Shreekar11" />
     </a>
 </div>
 
