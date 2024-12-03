@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 Geeks, I'm Shreekar Gade</h1>
-<h3 align="center">A Full Stack Development Enthusiast from Pune Institute of Computer Technology</h3>
+<h1 align="center">Hey 👋, I'm Shreekar Gade</h1>
+<h3 align="center">A Software Developer from Pune Institute of Computer Technology</h3>
 </br>
 <div align="center">
   <image alt="Coding" width="771" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
@@ -10,7 +10,7 @@
 
 <!-- - 🔭 I’m currently working on something cool. -->
 
-- 🌱 I’m currently learning Backend and DevOps Technologies.
+- 🌱 I’m currently learning distributed systems and building scalable system designs.
 
 - 👯 I’m looking forward to collaborate on Full Stack projects.
 
