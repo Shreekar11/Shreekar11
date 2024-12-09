@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Shreekar Gade</h1>
+<h1 align="center">Hey!, I'm Shreekar Gade</h1>
 <h3 align="center">A Software Developer from Pune Institute of Computer Technology</h3>
 </br>
 <div align="center">
