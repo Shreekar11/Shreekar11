@@ -10,7 +10,7 @@
 
 <!-- - 🔭 I’m currently working on something cool. -->
 
-- 🌱 I’m currently learning distributed systems and building scalable system designs.
+- 🌱 I’m currently learning backend technologies and building scalable system designs.
 
 - 👯 I’m looking forward to collaborate on Full Stack projects.
 
