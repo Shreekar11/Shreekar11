@@ -1,4 +1,4 @@
-<h1 align="center">Shreekar Gade</h1>
+<h1 align="center">Hey! I'm Shreekar Gade</h1>
 <h3 align="center">Full Stack Developer | System Design Enthusiast</h3>
 
 <div align="center">
@@ -20,7 +20,7 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
 ### Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,ts" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,ts" alt="Programming Languages"/>
   </a>
 </p>
 
