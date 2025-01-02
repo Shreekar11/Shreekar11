@@ -13,7 +13,7 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
 - 💡 Eager to collaborate on innovative Full Stack projects
 - 🎯 Focused on building scalable system designs and high-performance applications
 - 📚 Constantly learning and adapting to new technologies
-- 🌟 Open to connecting with fellow developers and tech enthusiasts
+- ✨ Open to connecting with fellow developers and tech enthusiasts
 
 ## Tech Stack
 
