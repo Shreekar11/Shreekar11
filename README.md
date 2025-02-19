@@ -58,16 +58,6 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreekar11&theme=nord&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="start">
- 
- ### Profile Visitors
- 
-</div>
-<div align="start">
-  <img src="https://profile-counter.glitch.me/Shreekar11/count.svg?"  />
-</div>
-<p>&nbsp;</p>
-
 ## Let's Connect
 
 <p align="left">
