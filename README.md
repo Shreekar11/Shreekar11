@@ -41,7 +41,7 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
 ### Tools & Platforms
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,docker,gcp,aws,vscode,figma" alt="Development Tools"/>
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,docker,kubernetes,gcp,aws,vscode,figma" alt="Development Tools"/>
   </a>
 </p>
 
