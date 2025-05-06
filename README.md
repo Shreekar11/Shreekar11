@@ -45,6 +45,7 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
   </a>
 </p>
 
+<!--
 ## GitHub Analytics
 
 <div align="center">
@@ -57,6 +58,7 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreekar11&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreekar11&theme=nord&hide_border=true" alt="GitHub Streak"/>
 </div>
+-->
 
 ## Let's Connect
 
