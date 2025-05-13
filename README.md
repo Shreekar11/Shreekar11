@@ -27,7 +27,7 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
 ### Frontend Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,jquery" alt="Frontend Technologies"/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,jquery" alt="Frontend Technologies"/>
   </a>
 </p>
 
