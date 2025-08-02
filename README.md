@@ -67,14 +67,6 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
   <a href="https://twitter.com/Shreekar_11/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-## Coding Profiles
-
-<p align="left">
-  <a href="https://codeforces.com/profile/Shreekar11/"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/></a>
-  <a href="https://www.codechef.com/users/shreekar_11"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/></a>
-  <a href="https://leetcode.com/Shreekar_11/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
-</p>
-
 ---
 
 📫 **Contact:** shreekargade2004@gmail.com
