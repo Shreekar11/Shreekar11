@@ -34,7 +34,7 @@ I'm a passionate Full Stack Developer focused on building scalable and efficient
 ### Backend & Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,nodejs,express,postgresql,mysql,mongodb,prisma,redis,firebase,nginx" alt="Backend Technologies"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,go,postgresql,mysql,mongodb,prisma,redis,firebase,nginx" alt="Backend Technologies"/>
   </a>
 </p>
 
