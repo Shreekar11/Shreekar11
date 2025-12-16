@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Shreekar Gade</h1>
-<h3 align="center">Full Stack Developer | System Design Enthusiast</h3>
+<h3 align="center">Software Engineer | Building scalable and distributed systems</h3>
 
 <div align="center">
   <img alt="Coding" width="800" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
