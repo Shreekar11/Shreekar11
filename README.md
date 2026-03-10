@@ -34,7 +34,7 @@ I'm a passionate Software Engineer focused on building scalable, distributed and
 ### Backend & Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,go,postgresql,mysql,mongodb,prisma,redis,firebase,nginx" alt="Backend Technologies"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,go,postgresql,mysql,mongodb,prisma,redis,firebase,nginx" alt="Backend Technologies"/>
   </a>
 </p>
 
